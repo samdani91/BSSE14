@@ -1,1 +1,3 @@
 Git and Github
+This text is wriiten from samdani1412 github account to samdani91 github repo named BSSE14
+I want to see how things actually works
